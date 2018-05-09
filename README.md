@@ -5,7 +5,9 @@ Comedy app made in Spring Boot &amp; Angular
 <br>
 <br>
 <br>
-![Alt text](https://i.imgur.com/Ewun4d6.jpg?raw=true)
+![Alt text](https://i.imgur.com/Ewun4d6.jpg?raw=true) 
+<br>
+![Alt text](https://i.imgur.com/W3UbZ4e.jpg?raw=true)
 <br>
 ![Alt text](https://i.imgur.com/Fx1EU8M.png?raw=true)
 <br>
