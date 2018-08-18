@@ -14,3 +14,4 @@ Comedy app made in Spring Boot &amp; Angular
 ![Alt text](https://i.imgur.com/jAeUg1S.jpg?raw=true)
 <br>
 ![Alt text](https://i.imgur.com/2Uuwmir.jpg?raw=true)
+ 
